@@ -1,0 +1,12 @@
+C:\Users\Tsiam\Documents\Visual Studio 2015\Projects\DemoCSharp\DemoCSharp\bin\Debug\DemoCSharp.exe.config
+C:\Users\Tsiam\Documents\Visual Studio 2015\Projects\DemoCSharp\DemoCSharp\bin\Debug\DemoCSharp.exe
+C:\Users\Tsiam\Documents\Visual Studio 2015\Projects\DemoCSharp\DemoCSharp\bin\Debug\DemoCSharp.pdb
+C:\Users\Tsiam\Documents\Visual Studio 2015\Projects\DemoCSharp\DemoCSharp\obj\Debug\DemoCSharp.Form1.resources
+C:\Users\Tsiam\Documents\Visual Studio 2015\Projects\DemoCSharp\DemoCSharp\obj\Debug\DemoCSharp.Properties.Resources.resources
+C:\Users\Tsiam\Documents\Visual Studio 2015\Projects\DemoCSharp\DemoCSharp\obj\Debug\DemoCSharp.csproj.GenerateResource.Cache
+C:\Users\Tsiam\Documents\Visual Studio 2015\Projects\DemoCSharp\DemoCSharp\obj\Debug\DemoCSharp.exe
+C:\Users\Tsiam\Documents\Visual Studio 2015\Projects\DemoCSharp\DemoCSharp\obj\Debug\DemoCSharp.pdb
+C:\Users\Tsiam\Documents\Visual Studio 2015\Projects\DemoCSharp\DemoCSharp\obj\Debug\DemoCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Tsiam\Desktop\DemoCSharp\DemoCSharp\bin\Debug\DemoCSharp.exe.config
+C:\Users\Tsiam\Desktop\DemoCSharp\DemoCSharp\obj\Debug\DemoCSharp.exe
+C:\Users\Tsiam\Desktop\DemoCSharp\DemoCSharp\obj\Debug\DemoCSharp.pdb

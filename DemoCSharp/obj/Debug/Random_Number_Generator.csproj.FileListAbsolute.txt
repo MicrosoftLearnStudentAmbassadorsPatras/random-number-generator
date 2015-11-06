@@ -1,0 +1,12 @@
+C:\Users\Tsiam\Desktop\DemoCSharp\DemoCSharp\bin\Debug\DemoCSharp.exe.config
+C:\Users\Tsiam\Desktop\DemoCSharp\DemoCSharp\obj\Debug\DemoCSharp.exe
+C:\Users\Tsiam\Desktop\DemoCSharp\DemoCSharp\obj\Debug\DemoCSharp.pdb
+C:\Users\Tsiam\Desktop\DemoCSharp\DemoCSharp\obj\Debug\Random_Number_Generator.csprojResolveAssemblyReference.cache
+C:\Users\Tsiam\Desktop\DemoCSharp\DemoCSharp\obj\Debug\DemoCSharp.Form1.resources
+C:\Users\Tsiam\Desktop\DemoCSharp\DemoCSharp\obj\Debug\Random_Number_Generator.csproj.GenerateResource.Cache
+C:\Users\Tsiam\Desktop\DemoCSharp\DemoCSharp\obj\Debug\DemoCSharp.Properties.Resources.resources
+C:\Users\Tsiam\Desktop\DemoCSharp\DemoCSharp\bin\Debug\DemoCSharp.exe
+C:\Users\Tsiam\Desktop\DemoCSharp\DemoCSharp\bin\Debug\DemoCSharp.pdb
+C:\Users\Tsiam\Desktop\Random_Number_Generator\DemoCSharp\bin\Debug\DemoCSharp.exe.config
+C:\Users\Tsiam\Desktop\Random_Number_Generator\DemoCSharp\obj\Debug\DemoCSharp.exe
+C:\Users\Tsiam\Desktop\Random_Number_Generator\DemoCSharp\obj\Debug\DemoCSharp.pdb
